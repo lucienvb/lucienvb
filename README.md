@@ -1,6 +1,6 @@
 ### 👋 Hi there! I am Lucien van Bussel
 
-- 🔭 I’m currently working on webserv, a project about building a HTTP server in C++
+- 🔭 I’m currently working on cub3D, a project about building a 3D game in C
 - 🌱 I’m currently learning to become a Software Engineer [@Codam Coding College](/) and I started with a parttime job as developer at Stapes IT
 - 📫 How to reach me: lucienvanbussel@gmail.com || [LinkedIn](https://www.linkedin.com/in/lucien-van-bussel-065076a3/)
 
